@@ -4,7 +4,7 @@ An interactive web-based toolkit for the end-to-end analysis, optimization, and 
 
 CogniTune is a sophisticated, visually stunning web application designed for AI developers and researchers to analyze, optimize, and evaluate Retrieval-Augmented Generation (RAG) pipelines. It provides a seamless, interactive, and comprehensive toolkit for configuring every component of a RAG system, from document ingestion to response generation. The application is structured as a multi-step wizard, guiding the user through the optimization process with real-time feedback and rich data visualizations.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/CogniTune--0251006-155127)
 
 ## Table of Contents
 
@@ -113,7 +113,7 @@ This project is designed for easy deployment to Cloudflare's global network.
     - Navigate to `Settings` -> `Variables`.
     - Add the `CF_AI_BASE_URL` and `CF_AI_API_KEY` secrets. Make sure to encrypt them.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/CogniTune--0251006-155127)
 
 ## Project Structure
 
